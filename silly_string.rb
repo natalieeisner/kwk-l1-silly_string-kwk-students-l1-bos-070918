@@ -1,7 +1,11 @@
+your_favorite_word = "natalie"
+puts "My favorite word is #{your_favorite_word}"
+favorite_word_in_all_caps = your_favorite_word.upcase
+puts "MY FAVORITE WORD IS #{favorite_word_in_all_caps}"
 
 # Challenge 1: Fill this string in with your favorite word
 
-your_favorite_word = ""
+your_favorite_word = "natalie"
 
 puts "My favorite word is #{your_favorite_word}"
 
